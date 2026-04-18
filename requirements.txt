@@ -1,0 +1,28 @@
+# =============================================================================
+#  Python Dependencies – Supply Chain Data Pipeline
+# =============================================================================
+#  Install all dependencies:
+#    pip install -r requirements.txt
+# =============================================================================
+
+# ── Core ────────────────────────────────────────────────────────────────────
+pandas>=2.0.0
+numpy>=1.24.0
+
+# ── Database ────────────────────────────────────────────────────────────────
+sqlalchemy>=2.0.0
+pymysql>=1.1.0
+mysql-connector-python>=8.0.0
+
+# ── ETL & Data Processing ──────────────────────────────────────────────────
+openpyxl>=3.1.0         # Excel support (optional)
+
+# ── Machine Learning (Demand Forecasting) ──────────────────────────────────
+scikit-learn>=1.3.0
+
+# ── Workflow Automation ────────────────────────────────────────────────────
+apache-airflow>=2.7.0
+
+# ── Utilities ──────────────────────────────────────────────────────────────
+python-dotenv>=1.0.0    # .env file support (optional)
+requests>=2.31.0        # HTTP requests (optional API integration)

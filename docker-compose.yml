@@ -1,0 +1,96 @@
+# =============================================================================
+#  Docker Compose – Supply Chain Data Pipeline
+# =============================================================================
+#  Services:
+#    1. mysql    – MySQL 8.0 database
+#    2. airflow  – Apache Airflow (standalone mode)
+# =============================================================================
+#
+#  Usage:
+#    docker-compose up -d            # Start all services
+#    docker-compose down             # Stop and remove containers
+#    docker-compose logs -f mysql    # View MySQL logs
+#
+# =============================================================================
+
+version: "3.8"
+
+services:
+  # ─────────────────────────────────────────────────────────────
+  # MySQL 8.0 Database
+  # ─────────────────────────────────────────────────────────────
+  mysql:
+    image: mysql:8.0
+    container_name: sc_mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: supply_chain_db
+      MYSQL_USER: sc_user
+      MYSQL_PASSWORD: sc_password
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+      - ./database/schema.sql:/docker-entrypoint-initdb.d/01_schema.sql:ro
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    networks:
+      - sc_network
+
+  # ─────────────────────────────────────────────────────────────
+  # Apache Airflow (Standalone mode for development)
+  # ─────────────────────────────────────────────────────────────
+  airflow:
+    image: apache/airflow:2.7.3-python3.11
+    container_name: sc_airflow
+    restart: unless-stopped
+    depends_on:
+      mysql:
+        condition: service_healthy
+    environment:
+      AIRFLOW__CORE__EXECUTOR: SequentialExecutor
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: sqlite:////opt/airflow/airflow.db
+      # Pass MySQL connection to DAGs
+      MYSQL_HOST: mysql
+      MYSQL_PORT: "3306"
+      MYSQL_USER: root
+      MYSQL_PASSWORD: root
+      MYSQL_DATABASE: supply_chain_db
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./airflow_dags:/opt/airflow/dags
+      - ./etl:/opt/airflow/project/etl
+      - ./data:/opt/airflow/project/data
+      - ./utils:/opt/airflow/project/utils
+      - ./advanced:/opt/airflow/project/advanced
+      - airflow_logs:/opt/airflow/logs
+    command: airflow standalone
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+    networks:
+      - sc_network
+
+# ─────────────────────────────────────────────────────────────
+# Volumes
+# ─────────────────────────────────────────────────────────────
+volumes:
+  mysql_data:
+    driver: local
+  airflow_logs:
+    driver: local
+
+# ─────────────────────────────────────────────────────────────
+# Networks
+# ─────────────────────────────────────────────────────────────
+networks:
+  sc_network:
+    driver: bridge

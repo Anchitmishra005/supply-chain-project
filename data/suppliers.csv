@@ -1,0 +1,201 @@
+supplier_id,supplier_name,contact_email,phone,city,country,rating,lead_time_days,active
+SUP-0001,Nexus Pvt Ltd,contact@nexuspvtltd.com,+91-7802442098,Mumbai,India,1.9,24,1
+SUP-0002,Nexus Partners,contact@nexuspartners.com,+91-9869865302,Delhi,India,1.1,3,1
+SUP-0003,Adani Partners,contact@adanipartners.com,+91-6173983563,Jaipur,India,1.8,21,0
+SUP-0004,Elite Manufacturing,contact@elitemanufacturing.com,+91-9861846463,Ahmedabad,India,4.2,1,1
+SUP-0005,Quantum Group,contact@quantumgroup.com,+91-7821030379,Kolkata,India,1.9,25,1
+SUP-0006,Reliance Pvt Ltd,contact@reliancepvtltd.com,+91-6633857052,Pune,India,4.4,20,1
+SUP-0007,Stellar Industries,contact@stellarindustries.com,+91-9010880284,Guangzhou,China,1.5,30,1
+SUP-0008,Reliance Partners,contact@reliancepartners.com,+91-8370085674,Chennai,India,1.8,3,1
+SUP-0009,Nexus Manufacturing,contact@nexusmanufacturing.com,+91-7896520458,Taipei,Taiwan,4.4,28,1
+SUP-0010,Elite Solutions,contact@elitesolutions.com,+91-8390931319,Ahmedabad,India,2.5,7,1
+SUP-0011,Quantum Pvt Ltd,contact@quantumpvtltd.com,+91-7121580010,Jaipur,India,3.9,6,1
+SUP-0012,Vanguard Partners,contact@vanguardpartners.com,+91-8125217331,Hyderabad,India,1.9,2,1
+SUP-0013,Reliance Manufacturing,contact@reliancemanufacturing.com,+91-9717051245,Hanoi,Vietnam,1.9,16,1
+SUP-0014,Vanguard International,contact@vanguardinternational.com,+91-7735928301,Bangalore,India,2.0,18,0
+SUP-0015,Bajaj Trading,contact@bajajtrading.com,+91-9824262350,Pune,India,2.4,5,0
+SUP-0016,Alpha Pvt Ltd,contact@alphapvtltd.com,+91-6308724371,Taipei,Taiwan,1.6,6,1
+SUP-0017,Delta Pvt Ltd,contact@deltapvtltd.com,+91-8500988104,Pune,India,5.0,17,1
+SUP-0018,Omega Industries,contact@omegaindustries.com,+91-6750799353,Shenzhen,China,4.5,25,1
+SUP-0019,Stellar Enterprises,contact@stellarenterprises.com,+91-7923466985,Delhi,India,1.6,1,1
+SUP-0020,Omega Corp,contact@omegacorp.com,+91-6697391959,Surat,India,2.2,21,0
+SUP-0021,Delta Manufacturing,contact@deltamanufacturing.com,+91-8450431174,Bangalore,India,3.2,25,0
+SUP-0022,Vanguard Industries,contact@vanguardindustries.com,+91-8124374042,Jaipur,India,1.1,30,1
+SUP-0023,Vanguard Solutions,contact@vanguardsolutions.com,+91-6379641571,Hyderabad,India,4.5,3,1
+SUP-0024,Quantum International,contact@quantuminternational.com,+91-6453579822,Seoul,South Korea,4.1,5,1
+SUP-0025,Bajaj Partners,contact@bajajpartners.com,+91-9975365461,Seoul,South Korea,4.9,30,0
+SUP-0026,Stellar Manufacturing,contact@stellarmanufacturing.com,+91-8042862296,Guangzhou,China,5.0,21,1
+SUP-0027,Alpha Partners,contact@alphapartners.com,+91-6793042493,Ahmedabad,India,1.9,11,1
+SUP-0028,Delta Partners,contact@deltapartners.com,+91-9856438864,Hyderabad,India,1.0,23,1
+SUP-0029,Adani Pvt Ltd,contact@adanipvtltd.com,+91-6205853309,Hanoi,Vietnam,1.3,8,1
+SUP-0030,Nexus International,contact@nexusinternational.com,+91-9533927342,Hyderabad,India,3.9,29,0
+SUP-0031,Delta International,contact@deltainternational.com,+91-9099663354,Hyderabad,India,1.8,4,1
+SUP-0032,Apex Group,contact@apexgroup.com,+91-9060617100,Pune,India,3.7,21,1
+SUP-0033,Tata Group,contact@tatagroup.com,+91-8223624322,Guangzhou,China,2.0,7,0
+SUP-0034,Alpha Corp,contact@alphacorp.com,+91-7202546509,Pune,India,2.9,28,1
+SUP-0035,Reliance Industries,contact@relianceindustries.com,+91-9542711934,Shenzhen,China,4.9,30,1
+SUP-0036,Mahindra Group,contact@mahindragroup.com,+91-9154638016,Ahmedabad,India,4.5,29,1
+SUP-0037,Bajaj International,contact@bajajinternational.com,+91-8772282845,Chennai,India,3.6,16,1
+SUP-0038,Adani Solutions,contact@adanisolutions.com,+91-6383285914,Hyderabad,India,3.9,2,1
+SUP-0039,Tata Industries,contact@tataindustries.com,+91-9124675909,Jaipur,India,4.7,17,1
+SUP-0040,Tata Partners,contact@tatapartners.com,+91-7217818981,Delhi,India,3.4,22,1
+SUP-0041,Elite Pvt Ltd,contact@elitepvtltd.com,+91-9733442271,Hanoi,Vietnam,3.3,2,0
+SUP-0042,Reliance Group,contact@reliancegroup.com,+91-9825184085,Shenzhen,China,3.1,30,1
+SUP-0043,Adani Enterprises,contact@adanienterprises.com,+91-7740761876,Hyderabad,India,1.5,21,1
+SUP-0044,Alpha Enterprises,contact@alphaenterprises.com,+91-6475411220,Hanoi,Vietnam,2.8,19,1
+SUP-0045,Bajaj Corp,contact@bajajcorp.com,+91-8287219016,Hanoi,Vietnam,4.5,12,1
+SUP-0046,Mahindra International,contact@mahindrainternational.com,+91-9560049651,Seoul,South Korea,3.4,26,0
+SUP-0047,Bajaj Pvt Ltd,contact@bajajpvtltd.com,+91-6880044664,Hanoi,Vietnam,1.5,4,0
+SUP-0048,Mahindra Solutions,contact@mahindrasolutions.com,+91-9963837607,Chennai,India,3.9,7,1
+SUP-0049,Omega International,contact@omegainternational.com,+91-6332922097,Chennai,India,3.5,27,1
+SUP-0050,Apex Corp,contact@apexcorp.com,+91-7716731178,Shenzhen,China,4.0,18,1
+SUP-0051,Vanguard Corp,contact@vanguardcorp.com,+91-6236158393,Surat,India,3.3,5,1
+SUP-0052,Mahindra Industries,contact@mahindraindustries.com,+91-8389715229,Chennai,India,4.6,7,1
+SUP-0053,Apex Partners,contact@apexpartners.com,+91-8663291351,Hanoi,Vietnam,4.0,30,1
+SUP-0054,Pioneer Corp,contact@pioneercorp.com,+91-7160364040,Taipei,Taiwan,1.1,24,1
+SUP-0055,Stellar Group,contact@stellargroup.com,+91-7626344970,Taipei,Taiwan,1.6,23,1
+SUP-0056,Elite Industries,contact@eliteindustries.com,+91-9084739154,Seoul,South Korea,1.8,30,1
+SUP-0057,Apex Solutions,contact@apexsolutions.com,+91-7491539219,Seoul,South Korea,1.1,7,1
+SUP-0058,Pioneer Pvt Ltd,contact@pioneerpvtltd.com,+91-7829256025,Taipei,Taiwan,3.6,13,0
+SUP-0059,Apex Industries,contact@apexindustries.com,+91-7711833405,Delhi,India,3.3,9,1
+SUP-0060,Reliance Trading,contact@reliancetrading.com,+91-8265451114,Pune,India,2.7,17,1
+SUP-0061,Elite Trading,contact@elitetrading.com,+91-7669315817,Hyderabad,India,3.8,1,0
+SUP-0062,Reliance Enterprises,contact@relianceenterprises.com,+91-8057296951,Jaipur,India,4.4,24,1
+SUP-0063,Omega Solutions,contact@omegasolutions.com,+91-8676452753,Shenzhen,China,2.6,10,0
+SUP-0064,Mahindra Manufacturing,contact@mahindramanufacturing.com,+91-8484798777,Pune,India,4.0,6,0
+SUP-0065,Delta Solutions,contact@deltasolutions.com,+91-9590910053,Pune,India,2.2,7,1
+SUP-0066,Stellar Trading,contact@stellartrading.com,+91-8111870946,Jaipur,India,2.8,22,1
+SUP-0067,Stellar Corp,contact@stellarcorp.com,+91-6555747196,Shenzhen,China,3.1,21,0
+SUP-0068,Apex Pvt Ltd,contact@apexpvtltd.com,+91-7539298184,Seoul,South Korea,2.2,26,1
+SUP-0069,Tata Manufacturing,contact@tatamanufacturing.com,+91-6477269692,Ahmedabad,India,2.7,21,0
+SUP-0070,Adani Group,contact@adanigroup.com,+91-8619141979,Ahmedabad,India,1.6,23,1
+SUP-0071,Vanguard Pvt Ltd,contact@vanguardpvtltd.com,+91-8786238683,Taipei,Taiwan,1.7,23,0
+SUP-0072,Alpha Industries,contact@alphaindustries.com,+91-7633125906,Surat,India,2.8,26,1
+SUP-0073,Omega Trading,contact@omegatrading.com,+91-8900490301,Kolkata,India,4.3,29,0
+SUP-0074,Elite Partners,contact@elitepartners.com,+91-7043072216,Ahmedabad,India,2.8,25,1
+SUP-0075,Pioneer Solutions,contact@pioneersolutions.com,+91-9416373517,Taipei,Taiwan,3.5,9,1
+SUP-0076,Reliance Solutions,contact@reliancesolutions.com,+91-7780754020,Hyderabad,India,2.3,18,1
+SUP-0077,Mahindra Corp,contact@mahindracorp.com,+91-8510230028,Hyderabad,India,3.8,3,1
+SUP-0078,Elite Enterprises,contact@eliteenterprises.com,+91-9053464496,Surat,India,1.2,27,1
+SUP-0079,Quantum Industries,contact@quantumindustries.com,+91-9772859857,Seoul,South Korea,2.9,12,1
+SUP-0080,Pioneer Group,contact@pioneergroup.com,+91-9579189069,Surat,India,4.6,16,1
+SUP-0081,Bajaj Group,contact@bajajgroup.com,+91-6190260968,Ahmedabad,India,2.3,22,1
+SUP-0082,Quantum Corp,contact@quantumcorp.com,+91-9063026728,Seoul,South Korea,4.9,18,1
+SUP-0083,Vanguard Group,contact@vanguardgroup.com,+91-9698796900,Jaipur,India,1.1,21,1
+SUP-0084,Apex Manufacturing,contact@apexmanufacturing.com,+91-8142054236,Ahmedabad,India,4.0,13,1
+SUP-0085,Quantum Partners,contact@quantumpartners.com,+91-8293539389,Mumbai,India,3.6,25,1
+SUP-0086,Adani Manufacturing,contact@adanimanufacturing.com,+91-6133591439,Seoul,South Korea,1.6,5,1
+SUP-0087,Alpha Solutions,contact@alphasolutions.com,+91-8417531992,Taipei,Taiwan,3.4,24,1
+SUP-0088,Delta Industries,contact@deltaindustries.com,+91-8044485470,Hanoi,Vietnam,3.7,13,1
+SUP-0089,Quantum Manufacturing,contact@quantummanufacturing.com,+91-9880392213,Delhi,India,2.0,23,1
+SUP-0090,Pioneer Trading,contact@pioneertrading.com,+91-6793384177,Taipei,Taiwan,4.1,12,0
+SUP-0091,Nexus Enterprises,contact@nexusenterprises.com,+91-8752874251,Mumbai,India,1.4,12,1
+SUP-0092,Elite Corp,contact@elitecorp.com,+91-9419395256,Guangzhou,China,2.1,26,0
+SUP-0093,Stellar International,contact@stellarinternational.com,+91-8854587656,Ahmedabad,India,2.1,28,1
+SUP-0094,Adani International,contact@adaniinternational.com,+91-9999897580,Jaipur,India,2.5,1,1
+SUP-0095,Pioneer Enterprises,contact@pioneerenterprises.com,+91-9195237802,Bangalore,India,2.4,9,1
+SUP-0096,Quantum Solutions,contact@quantumsolutions.com,+91-6066577715,Surat,India,4.8,3,1
+SUP-0097,Apex International,contact@apexinternational.com,+91-9479455056,Surat,India,2.7,24,0
+SUP-0098,Apex Enterprises,contact@apexenterprises.com,+91-8973645509,Guangzhou,China,2.2,8,1
+SUP-0099,Stellar Partners,contact@stellarpartners.com,+91-7854623176,Jaipur,India,4.3,10,1
+SUP-0100,Bajaj Industries,contact@bajajindustries.com,+91-9500526591,Guangzhou,China,2.1,2,0
+SUP-0101,Alpha International,contact@alphainternational.com,+91-8232834164,Ahmedabad,India,4.9,9,1
+SUP-0102,Elite International,contact@eliteinternational.com,+91-9781592502,Delhi,India,3.7,5,1
+SUP-0103,Omega Group,contact@omegagroup.com,+91-9906791057,Jaipur,India,1.9,17,1
+SUP-0104,Delta Trading,contact@deltatrading.com,+91-9995223006,Mumbai,India,4.8,7,1
+SUP-0105,Mahindra Partners,contact@mahindrapartners.com,+91-7025810350,Delhi,India,2.6,23,0
+SUP-0106,Bajaj Solutions,contact@bajajsolutions.com,+91-8975519329,Guangzhou,China,3.7,30,1
+SUP-0107,Omega Manufacturing,contact@omegamanufacturing.com,+91-6976444816,Shenzhen,China,4.3,3,1
+SUP-0108,Quantum Enterprises,contact@quantumenterprises.com,+91-7640813390,Jaipur,India,1.4,22,0
+SUP-0109,Stellar Solutions,contact@stellarsolutions.com,+91-6263632962,Jaipur,India,2.9,21,1
+SUP-0110,Mahindra Trading,contact@mahindratrading.com,+91-9222521959,Pune,India,2.9,14,1
+SUP-0111,Pioneer Partners,contact@pioneerpartners.com,+91-8980721542,Mumbai,India,2.3,11,1
+SUP-0112,Pioneer Industries,contact@pioneerindustries.com,+91-9555970552,Shenzhen,China,2.7,7,0
+SUP-0113,Apex Trading,contact@apextrading.com,+91-9266991973,Taipei,Taiwan,2.8,2,1
+SUP-0114,Nexus Trading,contact@nexustrading.com,+91-7568230758,Taipei,Taiwan,2.2,1,0
+SUP-0115,Nexus Corp,contact@nexuscorp.com,+91-7912776698,Ahmedabad,India,3.8,14,1
+SUP-0116,Alpha Manufacturing,contact@alphamanufacturing.com,+91-9612728958,Ahmedabad,India,2.5,30,0
+SUP-0117,Vanguard Enterprises,contact@vanguardenterprises.com,+91-7236341300,Seoul,South Korea,3.3,8,1
+SUP-0118,Tata Enterprises,contact@tataenterprises.com,+91-9099659968,Guangzhou,China,2.5,22,1
+SUP-0119,Delta Enterprises,contact@deltaenterprises.com,+91-6657767711,Seoul,South Korea,1.4,30,1
+SUP-0120,Tata Corp,contact@tatacorp.com,+91-7011619807,Pune,India,2.9,9,1
+SUP-0121,Delta Group,contact@deltagroup.com,+91-6526353065,Shenzhen,China,4.4,28,0
+SUP-0122,Tata Trading,contact@tatatrading.com,+91-7538592727,Delhi,India,3.7,10,1
+SUP-0123,Stellar Pvt Ltd,contact@stellarpvtltd.com,+91-7090249251,Ahmedabad,India,4.6,2,1
+SUP-0124,Bajaj Enterprises,contact@bajajenterprises.com,+91-8822529080,Kolkata,India,2.0,14,0
+SUP-0125,Alpha Trading,contact@alphatrading.com,+91-7521670443,Bangalore,India,3.6,15,1
+SUP-0126,Nexus Industries,contact@nexusindustries.com,+91-9049047700,Hanoi,Vietnam,3.7,6,1
+SUP-0127,Nexus Group,contact@nexusgroup.com,+91-7639069878,Guangzhou,China,4.4,7,1
+SUP-0128,Pioneer International,contact@pioneerinternational.com,+91-7554559986,Delhi,India,3.3,19,1
+SUP-0129,Vanguard Trading,contact@vanguardtrading.com,+91-9255347512,Guangzhou,China,4.1,8,0
+SUP-0130,Omega Partners,contact@omegapartners.com,+91-7786031567,Hanoi,Vietnam,2.0,27,1
+SUP-0131,Tata Solutions,contact@tatasolutions.com,+91-6809969609,Surat,India,2.5,24,1
+SUP-0132,Reliance Corp,contact@reliancecorp.com,+91-6243849893,Mumbai,India,5.0,4,1
+SUP-0133,Omega Enterprises,contact@omegaenterprises.com,+91-8609246160,Mumbai,India,1.8,4,1
+SUP-0134,Adani Corp,contact@adanicorp.com,+91-9700036896,Taipei,Taiwan,1.3,25,0
+SUP-0135,Adani Trading,contact@adanitrading.com,+91-7526953064,Hyderabad,India,4.1,26,0
+SUP-0136,Omega Pvt Ltd,contact@omegapvtltd.com,+91-6416572422,Guangzhou,China,2.8,12,0
+SUP-0137,Tata International,contact@tatainternational.com,+91-8632065872,Seoul,South Korea,3.7,16,1
+SUP-0138,Mahindra Pvt Ltd,contact@mahindrapvtltd.com,+91-7802391830,Bangalore,India,3.5,18,1
+SUP-0139,Vanguard Manufacturing,contact@vanguardmanufacturing.com,+91-8221269441,Pune,India,2.6,24,1
+SUP-0140,Tata Pvt Ltd,contact@tatapvtltd.com,+91-8903996761,Chennai,India,2.7,20,1
+SUP-0141,Nexus Solutions,contact@nexussolutions.com,+91-7445161807,Mumbai,India,4.9,2,1
+SUP-0142,Alpha Group,contact@alphagroup.com,+91-6846659834,Bangalore,India,3.1,8,0
+SUP-0143,Delta Corp,contact@deltacorp.com,+91-6493833218,Taipei,Taiwan,4.8,21,1
+SUP-0144,Reliance International,contact@relianceinternational.com,+91-7984546002,Ahmedabad,India,3.4,12,0
+SUP-0145,Mahindra Enterprises,contact@mahindraenterprises.com,+91-7853960779,Kolkata,India,2.6,11,0
+SUP-0146,Quantum Trading,contact@quantumtrading.com,+91-6985453694,Seoul,South Korea,1.3,22,1
+SUP-0147,Pioneer Manufacturing,contact@pioneermanufacturing.com,+91-9962728140,Taipei,Taiwan,4.5,2,1
+SUP-0148,Adani Industries,contact@adaniindustries.com,+91-7307215492,Taipei,Taiwan,2.3,10,0
+SUP-0149,Elite Group,contact@elitegroup.com,+91-8881860678,Guangzhou,China,2.4,6,1
+SUP-0150,Bajaj Manufacturing,contact@bajajmanufacturing.com,+91-9609945972,Shenzhen,China,1.5,10,0
+SUP-0151,Nexus Pvt Ltd 151,contact@nexuspvtltd151.com,+91-6921572580,Bangalore,India,2.3,8,1
+SUP-0152,Reliance Pvt Ltd 152,contact@reliancepvtltd152.com,+91-6975841584,Surat,India,1.8,17,1
+SUP-0153,Delta Corp 153,contact@deltacorp153.com,+91-7949390541,Seoul,South Korea,3.4,22,1
+SUP-0154,Omega Solutions 154,contact@omegasolutions154.com,+91-8437026637,Bangalore,India,4.0,28,1
+SUP-0155,Mahindra Corp 155,contact@mahindracorp155.com,+91-6011785082,Guangzhou,China,2.6,25,0
+SUP-0156,Omega Enterprises 156,contact@omegaenterprises156.com,+91-9891389829,Surat,India,2.1,22,1
+SUP-0157,Reliance International 157,contact@relianceinternational157.com,+91-9755468733,Ahmedabad,India,1.4,16,1
+SUP-0158,Bajaj Enterprises 158,contact@bajajenterprises158.com,+91-9627582754,Mumbai,India,1.6,2,1
+SUP-0159,Quantum Corp 159,contact@quantumcorp159.com,+91-6780440116,Seoul,South Korea,2.8,23,1
+SUP-0160,Pioneer Corp 160,contact@pioneercorp160.com,+91-6230396972,Mumbai,India,2.4,30,1
+SUP-0161,Stellar Partners 161,contact@stellarpartners161.com,+91-7665157187,Hanoi,Vietnam,4.8,15,1
+SUP-0162,Elite Trading 162,contact@elitetrading162.com,+91-9748287831,Guangzhou,China,3.1,21,1
+SUP-0163,Nexus Pvt Ltd 163,contact@nexuspvtltd163.com,+91-6978530643,Chennai,India,2.1,1,0
+SUP-0164,Alpha Partners 164,contact@alphapartners164.com,+91-8489099589,Hyderabad,India,3.8,16,1
+SUP-0165,Adani Pvt Ltd 165,contact@adanipvtltd165.com,+91-7492722853,Kolkata,India,1.9,14,1
+SUP-0166,Stellar Group 166,contact@stellargroup166.com,+91-8714428293,Guangzhou,China,4.3,20,1
+SUP-0167,Elite Pvt Ltd 167,contact@elitepvtltd167.com,+91-8949851229,Pune,India,4.4,15,1
+SUP-0168,Bajaj Corp 168,contact@bajajcorp168.com,+91-9886452936,Shenzhen,China,4.2,7,1
+SUP-0169,Apex Group 169,contact@apexgroup169.com,+91-7983421486,Taipei,Taiwan,1.5,1,1
+SUP-0170,Alpha International 170,contact@alphainternational170.com,+91-7027883272,Mumbai,India,2.5,4,0
+SUP-0171,Apex Pvt Ltd 171,contact@apexpvtltd171.com,+91-9747413325,Hanoi,Vietnam,5.0,8,1
+SUP-0172,Alpha Partners 172,contact@alphapartners172.com,+91-6978362101,Taipei,Taiwan,1.9,24,1
+SUP-0173,Stellar Industries 173,contact@stellarindustries173.com,+91-8171054922,Hyderabad,India,2.0,18,1
+SUP-0174,Stellar Manufacturing 174,contact@stellarmanufacturing174.com,+91-7697925163,Hyderabad,India,2.2,4,1
+SUP-0175,Bajaj Pvt Ltd 175,contact@bajajpvtltd175.com,+91-8664150991,Chennai,India,4.4,21,1
+SUP-0176,Tata Corp 176,contact@tatacorp176.com,+91-7820327428,Hanoi,Vietnam,2.1,26,1
+SUP-0177,Adani Industries 177,contact@adaniindustries177.com,+91-7764021146,Hyderabad,India,4.9,19,1
+SUP-0178,Adani Trading 178,contact@adanitrading178.com,+91-8577616760,Shenzhen,China,4.2,19,1
+SUP-0179,Stellar Partners 179,contact@stellarpartners179.com,+91-8053650871,Surat,India,3.8,21,1
+SUP-0180,Pioneer Industries 180,contact@pioneerindustries180.com,+91-9831398396,Delhi,India,3.0,23,1
+SUP-0181,Delta Group 181,contact@deltagroup181.com,+91-6802096060,Ahmedabad,India,1.3,9,0
+SUP-0182,Bajaj International 182,contact@bajajinternational182.com,+91-6882134045,Guangzhou,China,3.9,19,0
+SUP-0183,Reliance Partners 183,contact@reliancepartners183.com,+91-7361074200,Bangalore,India,3.4,3,1
+SUP-0184,Apex Group 184,contact@apexgroup184.com,+91-7233645756,Hyderabad,India,4.5,6,1
+SUP-0185,Bajaj Industries 185,contact@bajajindustries185.com,+91-7357412453,Pune,India,4.1,22,1
+SUP-0186,Adani Solutions 186,contact@adanisolutions186.com,+91-7197295302,Taipei,Taiwan,4.4,8,1
+SUP-0187,Tata International 187,contact@tatainternational187.com,+91-7366959861,Seoul,South Korea,1.2,15,1
+SUP-0188,Adani International 188,contact@adaniinternational188.com,+91-8834265269,Seoul,South Korea,1.2,4,1
+SUP-0189,Omega Manufacturing 189,contact@omegamanufacturing189.com,+91-6635499545,Kolkata,India,4.7,20,1
+SUP-0190,Delta Manufacturing 190,contact@deltamanufacturing190.com,+91-8381670735,Seoul,South Korea,3.2,25,1
+SUP-0191,Pioneer Corp 191,contact@pioneercorp191.com,+91-8075659998,Taipei,Taiwan,5.0,21,1
+SUP-0192,Alpha Partners 192,contact@alphapartners192.com,+91-7870097428,Jaipur,India,4.4,8,1
+SUP-0193,Vanguard Enterprises 193,contact@vanguardenterprises193.com,+91-8630176468,Ahmedabad,India,4.7,30,1
+SUP-0194,Tata Trading 194,contact@tatatrading194.com,+91-6423969276,Hyderabad,India,3.9,1,1
+SUP-0195,Alpha Pvt Ltd 195,contact@alphapvtltd195.com,+91-8057517458,Taipei,Taiwan,2.7,27,1
+SUP-0196,Mahindra Partners 196,contact@mahindrapartners196.com,+91-9504935450,Seoul,South Korea,2.9,30,1
+SUP-0197,Bajaj Solutions 197,contact@bajajsolutions197.com,+91-7307292424,Jaipur,India,2.6,27,0
+SUP-0198,Mahindra Corp 198,contact@mahindracorp198.com,+91-6397845102,Delhi,India,4.2,30,1
+SUP-0199,Quantum International 199,contact@quantuminternational199.com,+91-9820031705,Chennai,India,2.6,20,0
+SUP-0200,Quantum Industries 200,contact@quantumindustries200.com,+91-9857581381,Ahmedabad,India,3.9,14,1
