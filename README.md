@@ -306,10 +306,6 @@ docker-compose down -v
 
 ---
 
-## 🎤 Interview Explanation
-
-> *"I built an end-to-end supply chain data pipeline that demonstrates core data engineering skills. The pipeline starts with **synthetic data generation** producing realistic CSV datasets with referential integrity. A modular **Python ETL pipeline** extracts, cleans, and loads data into **MySQL**, handling null values, type conversions, and feature engineering like delivery delay calculation. **Apache Airflow** schedules the pipeline daily with retries and monitoring. I also implemented **demand forecasting** using scikit-learn and a **real-time alert system** for low-stock detection. Finally, I designed **Power BI dashboards** with 10 KPI metrics for business intelligence. The entire project is containerized with **Docker Compose** for easy deployment."*
-
 ### Key Talking Points:
 - **ETL Design:** Modular extract/transform/load with clear separation of concerns
 - **Data Quality:** Null handling, type validation, referential integrity
