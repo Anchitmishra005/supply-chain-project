@@ -326,4 +326,3 @@ This project is for educational and portfolio purposes.
 
 ---
 
-**Built with ❤️ for Data Engineering**
